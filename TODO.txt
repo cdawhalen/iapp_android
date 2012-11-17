@@ -1,0 +1,24 @@
+October 9th.
+
+Success in using PhoneGap to build .apk files 
+Success in loading onto my android by downloading to local computer and 
+mailing to my account.  Highlight attachment in email and that loads 
+automatically.
+
+To Do:
+	DONE front page graphic is not loading.
+	texting does not work.
+	some minor css problems with footer image
+	app always says there is a pending upgrade
+	icon and name for the app
+	make the back button work, once the app takes you to the web browser
+	DONE need a tap or swipe event on the first screen
+	
+	
+	
+Build instructions:
+	commit and sync with GitHub
+	https://build.phonegap.com/apps  login and Pull latest
+	download the .apk file
+	email it to phone
+	click on it
