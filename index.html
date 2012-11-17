@@ -536,6 +536,21 @@ Loading App1.3, please wait...
     </div>
 </div>
 <script>
+if (navigator.userAgent.match(/(iPhone|Android)/)) {
+	document.addEventListener("deviceready", onDeviceReady, false);
+}else{
+	onDeviceReady();
+}
+
+function onDeviceReady() {
+	$("#open_logo").tap(function() {
+		$.mobile.changePage("#page");	
+	});
+	if ( document.getElementById("readyset").style.display == "none") {
+		document.getElementById("loading").style.display = "none";
+		document.getElementById("readyset").style.display = "";
+	}
+}
 
 $(document).ready(function() {
 	if ( document.getElementById("readyset").style.display == "none") {
