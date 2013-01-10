@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.rescomp.uitransfer"
         version   = "2.1.1">
-    <name>Idaho Transfer</name>
+    <name>U-Idaho Transfer</name>
 
     <description>
         Idaho transfer helps you transfer to the University of Idaho.  Easy links, helpful descriptions and everything you need to get started on your road to the University of Idaho.
