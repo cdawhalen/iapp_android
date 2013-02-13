@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.rescomp.uitransfers"
+        id        = "com.rescomp.idahotransfer"
         version   = "2.1.3">
-    <name>U-Idaho Transfer</name>
+    <name>U-Idaho Transfers</name>
 
     <description>
         Idaho transfer helps you transfer to the University of Idaho.  Easy links, helpful descriptions and everything you need to get started on your road to the University of Idaho.
